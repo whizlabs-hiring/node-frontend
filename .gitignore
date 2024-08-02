@@ -25,4 +25,3 @@ dist-ssr
 bun.lockb
 db.json
 .env
-.env.production
